@@ -223,7 +223,7 @@ countdown:
   even
 
 configurator:
-	incbin configurator/dist/SIDECART.TOS  
+	incbin configurator/dist/SIDECUPX.TOS  
 	even
 end_configurator:
 
